@@ -351,7 +351,7 @@ mkdir empty && rsync -r --delete empty/ some-dir && rmdir some-dir
 `lsof | grep deleted | grep "filename-of-my-big-file"`
 
 
-## One-liners
+## D'una línia
 
 A few examples of piecing together commands:
 
