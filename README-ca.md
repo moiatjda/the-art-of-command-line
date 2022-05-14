@@ -11,7 +11,7 @@
 - [Ús diari](#ús-diari)
 - [Processament d'arxius i dades](#processament-arxius-i-dades)
 - [Depuració del sistema](#depuració-del-sistema)
-- [2+ comandes 1 línia](#2+-comandes-una-línia)
+- [Agrupant comandes en una línia](#agrupant-comandes-en-una-línia)
 - [Fosc però útil](#fosc-però-útil)
 - [Només macOS](#només-macOS)
 - [Només Windows](#només-windows)
@@ -351,7 +351,7 @@ mkdir empty && rsync -r --delete empty/ some-dir && rmdir some-dir
 `lsof | grep deleted | grep "filename-of-my-big-file"`
 
 
-## 2+ comandes 1 línia
+## Agrupant comandes en una línia
 
 A few examples of piecing together commands:
 
