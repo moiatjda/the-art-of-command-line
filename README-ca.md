@@ -11,7 +11,7 @@
 - [Ús diari](#ús-diari)
 - [Processament d'arxius i dades](#processament-arxius-i-dades)
 - [Depuració del sistema](#depuració-del-sistema)
-- [D'una línia](#una-línia)
+- [D'una línia](#d'una-línia)
 - [Fosc però útil](#fosc-però-útil)
 - [Només macOS](#només-macOS)
 - [Només Windows](#només-windows)
