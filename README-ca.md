@@ -32,6 +32,7 @@ a [Quora](http://www.quora.com/What-are-some-time-saving-tips-that-every-Linux-u
 però des de aleshores s'ha mogut a GitHub, on gent més talentosa que l'autor original ha fet numeroses millores.
 [**Please submit a question**](https://airtable.com/shrzMhx00YiIVAWJg) Si tens alguna pregunta relacionada amb la linia de comandes. [**Please contribute**](/CONTRIBUTING.md) si veus un error o quelcom que es podria millorar!
 
+
 ## Meta
 
 Scope:
